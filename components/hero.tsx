@@ -8,8 +8,8 @@ import { portfolioData } from "@/lib/portfolio-data"
 export function Hero() {
   const downloadCV = () => {
     const link = document.createElement("a")
-    link.href = "/cv.pdf"
-    link.download = "cv.pdf"
+    link.href = "/SushilaNeupane Resume.pdf"
+    link.download = "SushilaNeupane Resume.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
