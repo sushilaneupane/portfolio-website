@@ -34,7 +34,7 @@ export const portfolioData = {
     {
       company: "Silicon Soft & IT Consultant",
       position: "Full Stack Developer",
-      duration: "6 Months",
+      duration: "4 Months",
       durationInMonths: "3 Months",
       responsibilities: [
         "Designed and developed professional CV/Resume UI using HTML, CSS, and React.js",
